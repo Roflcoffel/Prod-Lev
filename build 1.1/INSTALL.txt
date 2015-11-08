@@ -1,0 +1,11 @@
+INSTALL:
+1. Make sure java 1.8 is installed correctly, link: http://www.java.com/sv/download/manual.jsp
+2. GO
+
+START FROM COMMANDLINE:
+1. Make sure java 1.8 is installed correctly, link: http://www.java.com/sv/download/manual.jsp
+2. Make sure JAVA_HOME path is set correctly, link: https://java.com/en/download/help/path.xml
+3. windows button + r and type "cmd".
+4. start the file with: java -jar nameandlocationoffile.jar
+
+ex. java -jar C:\Users\Andreas\Desktop\Project.jar
