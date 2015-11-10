@@ -1,0 +1,11 @@
+﻿Pelle,Olsson,pelle@io.com,none,23
+Per,Karlsson,per@hotmail.com,none,44
+Anna,Svensson,anna@gmail.com,dog,cat,17
+Ricky,Bruch,ricky@diskus.se,dog,rabbit,70
+Linda,Haglund,linda@springfort.se,rabbit,59
+Ingemar,Stenmark,ingemar@baraaka.se,rabbit,59
+Ingemar,Johansson,ingemar@champ.com,dog,83
+Zlatan,Ibrahimovic,zlatan@psg.fr,cat,35
+Carolina,Kluft,carro@friidrott.se,rabbit,32
+Annika,Sörenstam,annika@golf.com,dog,42
+Kajsa,Bergkvist,kajsa@hoppa.com,cat,40
